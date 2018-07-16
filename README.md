@@ -1,0 +1,1 @@
+# vb_image-resizing
